@@ -1,0 +1,38 @@
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version 
+	Rails 4.0.1
+
+* System dependencies
+
+* Configuration
+	bundle install
+
+* Database creation
+	rake db:create
+
+* Database initialization
+	rake db:migrate
+
+* Database seed
+	rake db:seed
+
+* How to run the test suite
+	rspec ./spec/models/*
+
+* Run job to see the Excercises solution on stdout
+	rake baseball:run_all
+
+* Deployment instructions
+
+* Exisitng solution available on the Internet
+	https://github.com/ChrisMcNabbSoftwareDeveloper/fantasy_baseball
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
